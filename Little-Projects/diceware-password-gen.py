@@ -5,7 +5,7 @@ Created on Sun Dec 22 12:38:09 2019
 @author: callaway
 
 Goal: Build a password generator using the diceware list
-and methodology
+and methodology. I got the idea from this computerfile episode https://youtu.be/Pe_3cFuSw1E
 """
 import pandas as pd
 import random
